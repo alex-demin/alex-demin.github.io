@@ -28,6 +28,62 @@
 
 ***
 
+### ClickCrew, Амстердам (2021-н.в.)
+```php
+/**
+ * Project: ClickCrew (Амстердам)
+ * Period: 2021–н.в.
+ * Task: Автоматизация рекламных кампаний для перформанс‑агентства
+ *
+ * RESULTS:
+ * - Сэкономлено: сотни человеко‑часов/месяц
+ * - Время запуска: с недель до минут
+ *
+ * DELIVERABLES:
+ * - Дашборд: Google Sheets (трафик, рекламодатели, оптимизация)
+ * - API: 15+ интеграций (Voluum, Taboola, Facebook и др.)
+ * - Скрипты: автооптимизация и масштабирование
+ * - Инфраструктура: Digital Ocean, Laravel Forge, Horizon
+ * - Коммуникация: Slack (английский)
+ *
+ * STACK:
+ * - Laravel 8, PHP 8, MySQL 8
+ * - Redis, Horizon
+ * - Laravel Forge, Sentry, Postman
+ */
+```
+
+> Нужна автоматизация рекламы? [Обсудим задачу!](#contact)
+
+```json
+{
+  "project": {
+    "name": "ClickCrew (Амстердам)",
+    "period": "2021–н.в.",
+    "task": "Автоматизация рекламных кампаний для перформанс‑агентства"
+  },
+  "results": [
+    "Сэкономлено: сотни человеко‑часов/месяц",
+    "Время запуска: с недель до минут"
+  ],
+  "deliverables": {
+    "dashboard": "Google Sheets (трафик, рекламодатели, оптимизация)",
+    "apis": 15,
+    "scripts": "автоматическая оптимизация и масштабирование",
+    "infrastructure": ["Digital Ocean", "Laravel Forge", "Horizon"],
+    "communication": "Slack (английский)"
+  },
+  "stack": {
+    "framework": "Laravel 8",
+    "language": "PHP 8",
+    "database": "MySQL 8",
+    "cache": "Redis",
+    "queue": "Horizon",
+    "tools": ["Laravel Forge", "Sentry", "Postman"]
+  }
+}
+```
+
 ### SaleStars, США (2019-2021)
 > Задача: backend для SaaS‑платформы подбора специалистов отделов продаж
 

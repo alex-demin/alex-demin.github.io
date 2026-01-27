@@ -25,6 +25,8 @@
  * - Все общение с заказчиком и командой на английском в Slack.
  * 
  * Стек: Laravel 8, PHP 8, MySQL 8, Redis, Horizon, Laravel Forge, Sentry, Postman.
+ * 
+ * Отзыв клиента: "From my side its quite clear, with you we’re very happy and have a great programmer with the most domain knowledge about our systems in the company. You have been with us the longest, have written a much of the codebase. You are crucial to the business."
  */
 ```
 Нужна автоматизация рекламы? [Обсудим задачу!](#contact)
@@ -50,6 +52,8 @@
  * - Общение на английском в Zoom.
  * 
  * Стек: Laravel, PHP, MySQL, Elasticsearch, Horizon, Pusher, Laravel Forge, Envoyer, Sentry, Postman.
+ * 
+ * Отзыв клиента: "Alex was critical to helping us keep the project on track and for us to complete it with the functionality planned. He's an expert-level developer, a phenomenal team-lead, and a great person. Highly recommend him for your next project"
  */
 ```
 Нужнен облачный сервис для бизнеса? [Укажите детали!](#contact)
@@ -72,6 +76,8 @@
  * - Общение на английском с клиентом в чате Upwork.
  * 
  * Стек: Laravel, PHP, MySQL.
+ * 
+ * Отзыв клиента: "Alex is excellent and goes above and beyond with both his work and his understanding of your requirements. He will make sure he is well-briefed and sure of obligations, and is helpful with suggestions and recommendation for your project. He works efficiently and diligently and is highly recommend." 
  */
 ```
 Нужна платформа для управления персоналом? [Готов помочь!](#contact)
@@ -94,6 +100,8 @@
  * - Написан скрипт для ежедневной оптимизации ставок под целевую стоимость конверсии
  * 
  * Стек: Laravel, PHP, MySQL, Яндекс API.
+ * 
+ * Отзыв клиента: "Спасибо за ваши рекомендации и что помогаете нам во всем разобраться!" (будем честны я не запрашивал отзыв, просто взял из переписки, они как родные уже, 18 лет работаем, если надо - можно позвонить в отдел маркетинга на сайте завода за живой рекомендацией)
  */
 ```
 Требуется автоматизировать маркетинг? [Напишите!](#contact)
@@ -126,8 +134,8 @@
 
 # Почему моя ставка оправдана
 $37 (3000р)/час, $6000 (450000р)/мес — это:
-- 10 лет опыта с Laravel (<a href="https://disk.yandex.ru/i/djwRoHPqEO7XVg" class="btn" target="_blank">официальный сертификат</a>).
-- <a href="https://disk.yandex.ru/i/i8q4Kob-m8R3dQ" class="btn" target="_blank">Top Rated Plus фрилансер на Upwork</a>
+- 10 лет опыта с Laravel (<a href="https://disk.yandex.ru/i/djwRoHPqEO7XVg" target="_blank">официальный сертификат</a>).
+- <a href="https://disk.yandex.ru/i/i8q4Kob-m8R3dQ" target="_blank">Top Rated Plus фрилансер на Upwork</a>
 - Гарантия чистого кода (TDD, рефакторинг, документация).
 - Поддержка 24/7 для критических инцидентов.
 - Прозрачная отчётность каждую неделю.

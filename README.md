@@ -162,7 +162,7 @@ $45 (3500р)/час, $6000 (450000р)/мес — это:
 Давайте начнём проект! Готов взять вашу задачу в работу в течение 24 часов. Пока есть свободный слот.
 
 - Email: [alex@demin.online](email:alex@demin.online)
-- [Telegram](https://t.me/g0thham)
+- Telegram: [@demin_online]({{ site.links.telegram_url }})
 
 *Моя искренняя задача - человеческое отношение, чтобы вы получили желаемое, остались довольны и обращались вновь*
 
@@ -172,3 +172,5 @@ $45 (3500р)/час, $6000 (450000р)/мес — это:
 <a href="{{ site.links.linkedin_url }}" target="_blank">Linkedin</a> |
 <a href="{{ site.links.upwork_url }}" target="_blank">Upwork</a> |
 <a href="{{ site.links.laracasts_url }}" target="_blank">Laracasts</a>
+
+(c) ИП Демин Алексей Геннадьевич | [Реквизиты]({{ site.links.credentials_url }})

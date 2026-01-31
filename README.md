@@ -173,4 +173,4 @@ $45 (3500р)/час, $6000 (450000р)/мес — это:
 <a href="{{ site.links.upwork_url }}" target="_blank">Upwork</a> |
 <a href="{{ site.links.laracasts_url }}" target="_blank">Laracasts</a>
 
-(c) ИП Демин Алексей Геннадьевич | [Реквизиты]({{ site.links.credentials_url }})
+(c) ИП Демин Алексей Геннадьевич [Реквизиты]({{ site.links.credentials_url }})

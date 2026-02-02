@@ -137,6 +137,7 @@
 
 # Почему моя ставка оправдана
 $45 (3500р)/час, $6000 (450000р)/мес — это:
+- PHP разработчик с 2001 года (<a href="https://web.archive.org/web/20040619073601/http://freeland.ur.ru/folio.php" target="_blank">портфолио из веб-архива</a>)
 - 10 лет опыта с Laravel (<a href="https://disk.yandex.ru/i/djwRoHPqEO7XVg" target="_blank">официальный сертификат</a>).
 - <a href="https://disk.yandex.ru/i/i8q4Kob-m8R3dQ" target="_blank">Top Rated Plus фрилансер на Upwork</a>
 - Умение находить решения для сложных бизнес‑задач.

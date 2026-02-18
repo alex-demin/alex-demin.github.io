@@ -132,6 +132,7 @@ $45 (3500р)/час, $6000 (450000р)/мес — это:
 
 - Email: [alex@demin.online](email:alex@demin.online)
 - Telegram: [@demin_online]({{ site.links.telegram_url }})
+- MAX: [Алексей Дёмин](https://max.ru/u/f9LHodD0cOIHAuGuBe_wLnqHKwu0DLaZSAzwdfQA14R1qu1gdHvmZAeT9k4)
 
 *Моя искренняя задача - человеческое отношение, чтобы вы получили желаемое, остались довольны и обращались вновь*
 

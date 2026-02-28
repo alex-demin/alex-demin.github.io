@@ -131,15 +131,15 @@ $50 (3500р)/час, $6000 (450000р)/мес — это:
 Время автоматизировать ваш бизнес! Готов взять вашу задачу в работу в течение 24 часов. Пока есть свободный слот.
 
 - Email: [alex@demin.online](email:alex@demin.online)
-- Telegram: [@demin_online]({{ site.links.telegram_url }})
+- Telegram: [@demin_online](https://t.me/demin_online)
 - MAX: [Алексей Дёмин](https://max.ru/u/f9LHodD0cOIHAuGuBe_wLnqHKwu0DLaZSAzwdfQA14R1qu1gdHvmZAeT9k4)
 
 *Моя искренняя задача - человеческое отношение, чтобы вы получили желаемое, остались довольны и обращались вновь*
 
 ***
 
-<a href="{{ site.links.github_url }}" target="_blank">Github</a> |
-<a href="{{ site.links.linkedin_url }}" target="_blank">Linkedin</a> |
-<a href="{{ site.links.laracasts_url }}" target="_blank">Laracasts</a>
+<a href="https://github.com/alex-demin" target="_blank">Github</a> |
+<a href="https://www.linkedin.com/in/demin-online/" target="_blank">Linkedin</a> |
+<a href="https://laracasts.com/@AlexDemin" target="_blank">Laracasts</a>
 
-(c) ИП Демин Алексей Геннадьевич | [Реквизиты]({{ site.links.credentials_url }})
+(c) ИП Демин Алексей Геннадьевич | [Реквизиты](https://elba.kontur.ru/card/demin-online)

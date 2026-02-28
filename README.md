@@ -112,7 +112,7 @@
 ---
 
 ## Почему моя ставка оправдана
-$45 (3500р)/час, $6000 (450000р)/мес — это:
+$50 (3500р)/час, $6000 (450000р)/мес — это:
 
 💼 10 лет опыта коммерческой разработки на Laravel и <a href="https://web.archive.org/web/20040619073601/http://freeland.ur.ru/folio.php" target="_blank">25+ лет на PHP</a><br> 
 🎓 <a href="https://disk.yandex.ru/i/djwRoHPqEO7XVg" target="_blank">Официальная сертификация Laravel</a> c 2018<br>
@@ -140,7 +140,6 @@ $45 (3500р)/час, $6000 (450000р)/мес — это:
 
 <a href="{{ site.links.github_url }}" target="_blank">Github</a> |
 <a href="{{ site.links.linkedin_url }}" target="_blank">Linkedin</a> |
-<a href="{{ site.links.upwork_url }}" target="_blank">Upwork</a> |
 <a href="{{ site.links.laracasts_url }}" target="_blank">Laracasts</a>
 
-(c) ИП Демин Алексей Геннадьевич [Реквизиты]({{ site.links.credentials_url }})
+(c) ИП Демин Алексей Геннадьевич | [Реквизиты]({{ site.links.credentials_url }})

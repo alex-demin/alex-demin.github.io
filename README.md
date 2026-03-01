@@ -142,4 +142,4 @@ $50 (3500р)/час, $6000 (450000р)/мес — это:
 <a href="https://www.linkedin.com/in/demin-online/" target="_blank">Linkedin</a> |
 <a href="https://laracasts.com/@AlexDemin" target="_blank">Laracasts</a>
 
-(c) ИП Демин Алексей Геннадьевич | [Реквизиты](https://elba.kontur.ru/card/demin-online)
+(c) ИП Демин Алексей Геннадьевич / [Реквизиты](https://elba.kontur.ru/card/demin-online)

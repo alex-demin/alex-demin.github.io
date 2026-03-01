@@ -37,7 +37,7 @@ I'll turn any custom business logic into robust code, from marketing automation 
  * 🏆 Reduced ad launch time from weeks to minutes.  
  * 🏆 Ongoing 5-year partnership with active maintenance.
  * 
- * URL: [https://www.clickcrewmedia.com](https://www.clickcrewmedia.com)
+ * URL: https://www.clickcrewmedia.com
  * 
  * Client Testimonial: "From my side it's quite clear, with you we’re very happy and have a great programmer with the most domain knowledge about our systems in the company. You have been with us the longest, have written much of the codebase. You are crucial to the business."
  */
@@ -62,7 +62,7 @@ I'll turn any custom business logic into robust code, from marketing automation 
  * - Servers, scaling, CI/CD (AWS, Laravel Forge, Envoyer, Horizon).
  * - English comms via Zoom.
  * 
- * URL: [https://salestars.demin.online](https://salestars.demin.online)
+ * URL: https://salestars.demin.online
  * 
  * Client Testimonial: "Alex was critical to helping us keep the project on track and for us to complete it with the functionality planned. He's an expert-level developer, a phenomenal team-lead, and a great person. Highly recommend him for your next project."
  */
@@ -85,7 +85,7 @@ I'll turn any custom business logic into robust code, from marketing automation 
  * - Server setup.
  * - English chats via Upwork.
  * 
- * URL: [https://cadere.demin.online](https://cadere.demin.online)
+ * URL: https://cadere.demin.online
  * 
  * Client Testimonial: "Alex is excellent and goes above and beyond with both his work and his understanding of your requirements. He will make sure he is well-briefed and sure of obligations, and is helpful with suggestions and recommendation for your project. He works efficiently and diligently and is highly recommend."
  */
@@ -107,7 +107,7 @@ I'll turn any custom business logic into robust code, from marketing automation 
  * - Bid management automation via API.
  * - Daily bid optimization script for target CPA.
  * 
- * URL: [https://profist.ru](https://profist.ru)
+ * URL: https://profist.ru
  * 
  * Client Feedback: "Thanks for your recommendations and help figuring everything out!" (18-year partnership; call marketing dept. on site for live reference.)
  */
